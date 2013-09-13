@@ -1,0 +1,13 @@
+diff --git /src/HelloWorld.java /src/HelloWorld.java
+index 2d6c7ab..949ef19 100644
+--- /src/HelloWorld.java
++++ /src/HelloWorld.java
+@@ -1,7 +1,7 @@
+ 
+ public class HelloWorld {
+ 	public static void main( String [] args){
+-		System.out.println("Hello World!");
++		System.out.println("Bonjour monde!");
+ 		
+ 	}
+ 
